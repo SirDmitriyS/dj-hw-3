@@ -1,0 +1,6 @@
+phones/config.py
+main/__pycache__/
+phones/__pycache__/
+phones/management/__pycache__/
+phones/migrations/
+phones/management/commands/__pycache__/
